@@ -1,2 +1,2 @@
 # Date-and-Time-Picker
- Data and time picker app
+ Native Mobile App that combines date/time with a clock using android studio. 
